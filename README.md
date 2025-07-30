@@ -1,4 +1,4 @@
-# SARTHAKSONAWANE01-
+# SARTHAKSONAWANE01
 <h1 align="center">Hey there! 👋 I'm Sarthak Sonawane</h1>
 <h3 align="center">💡 Curious Mind | 👨‍💻 Developer | 🚀 Future Founder</h3>
 
