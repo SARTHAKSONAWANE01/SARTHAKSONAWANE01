@@ -40,12 +40,12 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-sonawane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sarthak-sonawane&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SARTHAKSONAWANE01e&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SARTHAKSONAWANE01&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-sonawane&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAKSONAWANE01&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SARTHAKSONAWANE01 &bg_color=1a1b27&color=9f9f9f&line=ff6f61&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SARTHAKSONAWANE01&bg_color=1a1b27&color=9f9f9f&line=ff6f61&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
