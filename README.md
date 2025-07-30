@@ -1,52 +1,86 @@
 # SARTHAKSONAWANE01
-<h1 align="center">Hey there! 👋 I'm Sarthak Sonawane</h1>
-<h3 align="center">💡 Curious Mind | 👨‍💻 Developer | 🚀 Future Founder</h3>
+<!-- Profile Header -->
+<h1 align="center">Hey, I'm <span style="color:#FF5F6D;">Sarthak Sonawane</span> 👋</h1>
+<h3 align="center">🛠️ Tech-Driven Problem Solver | 🚀 Building My IT Startup | 💻 Web, Android & AI Automation Dev</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF0080&center=true&vCenter=true&width=435&lines=Tech+Explorer+%F0%9F%9A%80;AI+Automation+%2B+Web+Developer;Freelancer+%7C+Startup+Founder;Learning+Every+Day+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Code.+Automate.+Disrupt.;Freelancing+%7C+Building+%7C+Scaling;Solo-Founder+%F0%9F%9A%80+%7C+AI-Driven+Dreamer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
+## 🧠 About Me
 
-- 🎓 2nd-year B.Tech IT Student
-- 🧠 Passionate about **Web Dev**, **Android Dev**, and **Cybersecurity**
-- 📱 Building Android apps in **Kotlin + Firebase**
-- 🧪 Exploring **AI Tools**, **Automation**, and **SaaS ideas**
-- 🛠️ Founder of a growing IT team working on real client projects
-- 🧳 Currently learning: React.js, OpenAI APIs, ethical hacking
-
----
-
-### 🔧 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,kotlin,java,react,nodejs,cpp,c,mysql,firebase,git,github,vscode" />
-</p>
+- 🎓 B.Tech IT student at <strong>[Your College Name]</strong>
+- 🧩 Founder of a student-led IT startup focused on **Web, Android, and Automation**
+- 💻 Passionate about **AI Agents, SaaS, Cybersecurity, CodeIgniter**, and everything backend
+- 🧠 Currently learning: <kbd>Kotlin</kbd>, <kbd>React</kbd>, <kbd>Node.js</kbd>, <kbd>OpenAI APIs</kbd>
+- 🛒 Building real-world projects for **supermarkets, hospitals, and student platforms**
+- 🔭 Exploring open-source, client freelancing, and startup innovation
+- 🎯 Goal: Launch SaaS apps, build scalable systems, and lead impactful tech teams
 
 ---
 
-### 📊 My GitHub Stats
+## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-sonawane&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-sonawane&theme=radical" height="170"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,php,js,html,css,react,nodejs,mysql,cpp,c,firebase,git,github,figma,vscode,codeigniter" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+## 💼 My Startup & Projects
 
-<p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</p>
+### 🚧 Live & Ongoing Work
+
+| 🚀 Project | 🔧 Tech Stack | 📌 Description |
+|-----------|---------------|----------------|
+| **Supermarket eShop** | PHP, MySQL, Bootstrap | eCommerce site for a local supermarket with inventory and delivery |
+| **Healthcare IT Website** | HTML/CSS/JS, Bootstrap | Showcasing our medical sector client work |
+| **Music App** | Kotlin, Firebase | Sleek offline music player with playlist & theme switch |
+| **FKM Clone (Free Ka Maal)** | PHP, MySQL | Product listing, affiliate deals & smart ad system |
+| **Simple Task Tracker (MERN)** | React, Node, Mongo | Full-stack productivity web app with CRUD & auth |
+
+> Want source code, demos, or case studies? Stay tuned for portfolio release.
 
 ---
+
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-sonawane&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-sonawane&theme=radical&hide_border=true" height="180" />
 </p>
 
-<p align="center"><i>“Code with clarity. Build with purpose. Lead with passion.”</i></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthak-sonawane&theme=github_dark" width="90%"/>
+</p>
+
+---
+
+## 📬 Let's Collaborate
+
+<p align="center">
+  <a href="mailto:sarthaksonawane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sarthak-sonawane"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧩 Bonus Widgets
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarthak-sonawane&theme=dracula&row=1&margin-w=10&no-bg=true" />
+</p>
+
+---
+
+> 🧠 “Build things people want. Automate the boring. Lead with innovation.”  
+> — Sarthak Sonawane
+
