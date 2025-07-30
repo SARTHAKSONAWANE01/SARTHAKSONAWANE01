@@ -1,3 +1,4 @@
+#SARTHAKSONAWANE01 
 <h1 align="center">Hi 👋, I'm Sarthak Sonawane</h1>
 <h3 align="center">⚡ Future IT Entrepreneur | 💻 Full Stack & Android Dev | 🛡️ Cybersecurity Learner</h3>
 
@@ -52,11 +53,11 @@
 ### ⚡ GitHub Contributions
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthak-sonawane&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SARTHAKSONAWANE01&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-sonawane&bg_color=1a1b27&color=9f9f9f&line=ff6f61&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SARTHAKSONAWANE01 &bg_color=1a1b27&color=9f9f9f&line=ff6f61&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
