@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 4th Sem B.Tech IT student  
+- 🎓 B.Tech CSE student  
 - 🚀 Future founder of an **IT Startup**  
 - 📱 Building Android apps using **Kotlin** & **Jetpack Compose**  
 - 🌐 Full-stack developer: **MERN**, **PHP**, **CodeIgniter**  
