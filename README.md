@@ -1,102 +1,105 @@
-#SARTHAKSONAWANE01 
-<h1 align="center">Hi 👋, I'm Sarthak Sonawane</h1>
-<h3 align="center">⚡ Future IT Entrepreneur | 💻 Full Stack & Android Dev | 🛡️ Cybersecurity Learner</h3>
+<!-- Header -->
+# 🌟 **Sarthak Sonawane**
 
+<div align="center">
+
+### **Full Stack Developer • Android Developer • Cybersecurity Learner • Future IT Founder**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Crafting+Clean+%26+Practical+Tech;Full+Stack+%7C+Android+Developer;Cybersecurity+%26+AI+Explorer;Future+IT+Entrepreneur;Learning+%26+Building+Every+Day" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SARTHAKSONAWANE01&label=Profile+Views&color=ff69b4&style=flat" />
+
+</div>
+
+---
+
+# 👨‍💻 **About Me**
+
+I’m a B.Tech CSE student passionate about building meaningful, scalable tech.  
+My long-term vision is to launch and scale an IT startup with strong engineering foundations.
+
+- 🚀 Aspiring founder  
+- 💻 Full Stack Developer (MERN • PHP • CodeIgniter)  
+- 📱 Android Developer (Kotlin • Jetpack Compose)  
+- 🔐 Cybersecurity & Linux explorer  
+- 🎯 Freelancer delivering real-world solutions  
+- 🤖 AI, automation & system design enthusiast  
+
+---
+
+# 🛠️ **Tech Stack**
+
+## 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&width=435&lines=Tech+Explorer+%F0%9F%9A%80;Startup+Dreamer+%F0%9F%92%BC;Learning+Something+New+Every+Day+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,js,html,css,php,cpp,c,mysql&perline=12" />
 </p>
 
+## 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthak-sonawane&label=Profile+Views&color=ff69b4&style=flat" alt="profile views" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,react,nodejs,git,github,vscode,firebase,codeigniter,linux&perline=12" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# ⚡ **GitHub Stats & Animated Activity**
 
-- 🎓 B.Tech CSE student  
-- 🚀 Future founder of an **IT Startup**  
-- 📱 Building Android apps using **Kotlin** & **Jetpack Compose**  
-- 🌐 Full-stack developer: **MERN**, **PHP**, **CodeIgniter**  
-- 🔐 Exploring **Cybersecurity** + **AI automation**  
-- 🎯 Freelancer solving real-world tech problems
+<div align="center">
 
----
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=SARTHAKSONAWANE01&theme=radical&no-frame=true&margin-w=10" />
 
-### 🛠️ Tech Stack
+<br><br>
 
-#### 🚀 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,js,html,css,php,cpp,c,mysql" />
-</p>
+<!-- Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SARTHAKSONAWANE01&theme=tokyonight" />
 
-#### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,react,nodejs,git,github,vscode,firebase,codeigniter" />
-</p>
+<br><br>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SARTHAKSONAWANE01&bg_color=0d1117&color=9f9f9f&line=ff6f61&point=c778ff&area=true&hide_border=true" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats & Activity
+# 🌱 **Currently Exploring**
+
+- AI automation & prompts  
+- Backend development (Node.js + MongoDB)  
+- UI/UX + TailwindCSS  
+- Linux security labs  
+- Client communication & freelancing workflow  
+
+---
+
+# 🚀 **Featured Projects (Coming Soon)**
+
+| Project | Stack | Description |
+|--------|--------|-------------|
+| 🎵 **Music App** | Kotlin + Firebase | Offline smart playlist music system |
+| 🛒 **Supermarket Website** | PHP + MySQL | Real-world shopping cart + order mgmt |
+| 🧠 **AI Study Assistant** | OpenAI + JS | Flashcards, summaries & automation |
+| 📅 **Task Manager** | MERN Stack | Role-based Auth + CRUD dashboard |
+
+---
+
+# 🤝 **Connect With Me**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SARTHAKSONAWANE01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAKSONAWANE01&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
-### ⚡ GitHub Contributions
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SARTHAKSONAWANE01&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SARTHAKSONAWANE01&bg_color=1a1b27&color=9f9f9f&line=ff6f61&point=ffffff&area=true&hide_border=true" />
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://devsarth.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🌱 Currently Learning
+<div align="center">
 
-- 💼 Freelancing & client work  
-- 🤖 AI tools & OpenAI API  
-- 🧑‍🎨 UI/UX + TailwindCSS  
-- 🧱 Backend APIs (Node.js + MongoDB)  
-- 🔐 Ethical Hacking & Linux lab work
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
----
+### **“Think it. Build it. Scale it.”**  
+*On a path to create meaningful technology.*
 
-### 🚀 Featured Projects *(Coming Soon)*
-
-| 🚧 Project | 💻 Stack | 🧩 Description |
-|-----------|----------|----------------|
-| **🎵 Music App** | Kotlin + Firebase | Playlist-based offline player |
-| **🛒 Supermarket Website** | PHP + MySQL + Bootstrap | Real-world shopping cart |
-| **🧠 AI Study Assistant** | JS + OpenAI API | Smart flashcards & summaries |
-| **📅 Task Manager** | MERN Stack | Auth + CRUD dashboard app |
-
----
-
-### 🤝 Let's Connect
-
-<p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/](https://devsarth.netlify.app/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<p align="center">
-  <b>“Think it. Build it. Scale it.”</b><br>
-  <i>— Let's create something powerful together 🚀</i>
-</p>
+</div>
