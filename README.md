@@ -1,5 +1,3 @@
-<!-- ======================= CYBER GRID BACKGROUND ======================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Sarthak%20Sonawane&fontAlign=50&fontAlignY=40&color=0:020617,25:0f172a,50:1e293b,75:0ea5e9,100:38bdf8&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Android%20Developer%20•%20AI%20Explorer&descAlignY=58"/>
@@ -50,7 +48,11 @@ Goal: Launch a strong IT company
 
 <div align="center">
 
-<img width="100%" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=320&lines=Building+Scalable+Systems;Linux+%7C+Backend+%7C+Android;AI+%7C+Cybersecurity+Explorer"/>
 
 </div>
 
@@ -76,7 +78,7 @@ Goal: Launch a strong IT company
 
 | 💻 Project | ⚙️ Stack | 🚀 Highlights |
 |---|---|---|
-| 🧩 **UdyamEdge Customer Care System** | PHP • MySQL • JS | SLA automation, escalation system, enterprise workflows |
+| 🧩 **UdyamEdge Customer Care System** | PHP • MySQL • JS | Enterprise-grade SLA monitoring & ticket management platform |
 | 🛒 **Smart Supermarket Platform** | PHP • CodeIgniter | Inventory, orders, admin dashboard & cart system |
 | 🎵 **Smart Music Player** | Kotlin • Firebase | Offline playback & smart playlists |
 | 🤖 **AI Study Assistant** | OpenAI • Node.js | AI summaries, notes & productivity tools |
@@ -196,7 +198,7 @@ Automation • Enterprise Software • Startup Building
 </a>
 
 <a href="https://devsarth.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=firefox&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=firefox&logoColor=38bdf8"/>
 </a>
 
 <a href="https://github.com/SARTHAKSONAWANE01">
