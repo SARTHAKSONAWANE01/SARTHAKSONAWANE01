@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="YOUR_COVER_IMAGE_URL"/>
+<img width="100%" src="image.png"/>
 
 # Sarthak Sonawane
 
