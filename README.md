@@ -1,60 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Sarthak%20Sonawane&fontAlign=50&fontAlignY=40&color=0:020617,25:0f172a,50:1e293b,75:0ea5e9,100:38bdf8&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Android%20Developer%20•%20AI%20Explorer&descAlignY=58"/>
+<img width="100%" src="YOUR_COVER_IMAGE_URL"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Building+Scalable+%26+Real-World+Products;Android+%7C+Full+Stack+%7C+Backend+Engineering;Cybersecurity+%7C+Linux+%7C+AI+Automation;Future+IT+Founder+%F0%9F%9A%80"/>
+# Sarthak Sonawane
+
+### Full Stack Developer • Android Developer • AI Explorer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Solutions;Android+%7C+Web+%7C+Backend;System+Design+Enthusiast;Always+Learning+New+Technologies"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Engineering-0ea5e9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Android-Kotlin%20Developer-06b6d4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Backend-System%20Architecture-0284c7?style=for-the-badge"/>
-
-<img src="https://komarev.com/ghpvc/?username=SARTHAKSONAWANE01&style=for-the-badge&color=0ea5e9"/>
+![Profile Views](https://komarev.com/ghpvc/?username=SARTHAKSONAWANE01\&style=for-the-badge\&color=black)
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+# 👨‍💻 ABOUT ME
 
 <table>
 <tr>
-<td width="58%">
+<td width="55%">
+
+### whoami
 
 ```yaml
-Name: Sarthak Sonawane
-Role: Full Stack & Android Developer
-Education: B.Tech Computer Science
-Passion: Building scalable systems
-Goal: Launch a strong IT company
+name: Sarthak Sonawane
+role: Full Stack & Android Developer
+focus:
+  - Web Applications
+  - Backend Engineering
+  - Android Development
+  - AI Automation
+  - System Design
+
+mission:
+  Build impactful software products
+
+learning:
+  - DevOps
+  - Cloud
+  - Cybersecurity
+  - Advanced Backend Systems
 ```
 
-### ⚡ Engineering Mindset
+### Current Focus
 
-- 🚀 Focused on practical & scalable development  
-- 📱 Android developer using Kotlin & Jetpack Compose  
-- 🌐 Full stack developer building business systems  
-- 🔐 Exploring cybersecurity, Linux & networking  
-- 🤖 Interested in AI automation & workflows  
-- ☁️ Learning backend architecture & deployment  
-- 🧩 Building enterprise workflow systems  
+* ⚡ Building real-world applications
+* 📱 Android development with Kotlin
+* 🌐 Full Stack Web Development
+* 🤖 AI & Automation Workflows
+* 🔐 Linux & Cybersecurity
+* 🚀 System Design & Scalability
 
 </td>
 
-<td width="42%">
+<td width="45%">
 
-<div align="center">
-
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=320&lines=Building+Scalable+Systems;Linux+%7C+Backend+%7C+Android;AI+%7C+Cybersecurity+Explorer"/>
-
-</div>
+<img width="100%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 </td>
 </tr>
@@ -62,164 +65,216 @@ Goal: Launch a strong IT company
 
 ---
 
-# ⚔️ Tech Arsenal
+# ⚙️ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,js,php,html,css,c,cpp,mysql,bash,react,nodejs,express,firebase,tailwind,bootstrap,codeigniter,androidstudio,linux,git,github,vscode,postman,figma&theme=dark"/>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,js,python,c,cpp,php"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,codeigniter"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,docker"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Engineering Projects
-
-<div align="center">
-
-| 💻 Project | ⚙️ Stack | 🚀 Highlights |
-|---|---|---|
-| 🧩 **UdyamEdge Customer Care System** | PHP • MySQL • JS | Enterprise-grade SLA monitoring & ticket management platform |
-| 🛒 **Smart Supermarket Platform** | PHP • CodeIgniter | Inventory, orders, admin dashboard & cart system |
-| 🎵 **Smart Music Player** | Kotlin • Firebase | Offline playback & smart playlists |
-| 🤖 **AI Study Assistant** | OpenAI • Node.js | AI summaries, notes & productivity tools |
-| 📋 **Workflow Task Manager** | MERN Stack | Authentication, dashboards & CRUD workflows |
-| 🌐 **Modern Portfolio Systems** | React • Tailwind | Responsive UI & client-focused interfaces |
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SARTHAKSONAWANE01&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff&icon_color=0ea5e9&bg_color=00000000"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SARTHAKSONAWANE01&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
-
-<br><br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAKSONAWANE01&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff"/>
-
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SARTHAKSONAWANE01&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SARTHAKSONAWANE01&bg_color=020617&color=38BDF8&line=0EA5E9&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievement Showcase
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SARTHAKSONAWANE01&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4"/>
-
-</div>
-
----
-
-# 🌱 Currently Exploring
-
-<div align="center">
+# 🚀 FEATURED PROJECTS
 
 <table>
+
 <tr>
-<td align="center" width="33%">
 
-<img width="70" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png"/>
+<td width="50%">
 
-### AI Automation
+## 🎫 UdyamEdge Customer Care
 
-OpenAI APIs  
-Prompt workflows  
-Automation systems  
+Enterprise ticketing platform
 
-</td>
+* SLA Monitoring
+* Ticket Management
+* Admin Dashboard
+* Customer Support System
 
-<td align="center" width="33%">
-
-<img width="70" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
-
-### Backend Systems
-
-REST APIs  
-Authentication  
-Deployment & scaling  
+`PHP` `MySQL` `JavaScript`
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%">
 
-<img width="70" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png"/>
+## 🤖 AI Study Assistant
 
-### Cybersecurity
+AI-powered learning platform
 
-Linux labs  
-Networking  
-Security fundamentals  
+* Notes Generation
+* AI Summaries
+* Productivity Tools
+* Learning Assistant
+
+`OpenAI` `Node.js`
 
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%">
+
+## 🎵 Smart Music Player
+
+Android application
+
+* Offline Playback
+* Firebase Sync
+* Smart Playlists
+
+`Kotlin` `Firebase`
+
+</td>
+
+<td width="50%">
+
+## 📋 Workflow Manager
+
+Task & workflow management
+
+* Authentication
+* Dashboards
+* CRUD Operations
+
+`MERN Stack`
+
+</td>
+
+</tr>
+
 </table>
 
+---
+
+# 📊 GITHUB STATS
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SARTHAKSONAWANE01&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SARTHAKSONAWANE01&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SARTHAKSONAWANE01&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+
 </div>
 
 ---
 
-# 🧠 Developer Interests
+# 🌱 CURRENTLY EXPLORING
 
-<div align="center">
+<table>
+
+<tr>
+
+<td align="center">
+
+### ☁️ Cloud
+
+AWS Basics
+
+</td>
+
+<td align="center">
+
+### ⚙️ DevOps
+
+Docker & CI/CD
+
+</td>
+
+<td align="center">
+
+### 🧠 AI
+
+Agents & Automation
+
+</td>
+
+<td align="center">
+
+### 🔐 Security
+
+Linux & Networking
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🧩 INTERESTS
 
 ```text
-Full Stack Development • Android Apps • AI Systems • Cybersecurity
-Linux • Backend Engineering • System Design • SaaS Products
-Automation • Enterprise Software • Startup Building
+Web Development
+Android Development
+Backend Engineering
+System Design
+Linux
+Cybersecurity
+AI Automation
+Open Source
+Cloud Computing
+DevOps
 ```
-
-</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 CONNECT
 
 <div align="center">
 
-<a href="mailto:youremail@example.com">
-<img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://devsarth.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=firefox&logoColor=38bdf8"/>
+<a href="https://devsarth.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="https://github.com/SARTHAKSONAWANE01">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# ⚡ Developer Philosophy
+# 💭 DEVELOPER PHILOSOPHY
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+> Code. Learn. Build. Automate. Repeat.
 
-### *"Build technology that solves practical problems at scale."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 </div>
 
@@ -227,6 +282,8 @@ Automation • Enterprise Software • Startup Building
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,25:0f172a,50:1e293b,75:0ea5e9,100:38bdf8"/>
+### Thanks for visiting 👨‍💻
+
+Building technology that solves real-world problems.
 
 </div>
