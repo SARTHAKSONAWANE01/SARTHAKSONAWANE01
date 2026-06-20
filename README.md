@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="image.png"/>
+<img width="100%" src="ChatGPT Image Jun 20, 2026, 06_53_02 AM.png"/>
 
 # Sarthak Sonawane
 
@@ -14,44 +14,7 @@
 
 </div>
 
----
 
-# 👨‍💻 ABOUT ME
-
-<table>
-<tr>
-<td width="55%">
-
-### whoami
-
-```yaml
-name: Sarthak Sonawane
-role: Full Stack & Android Developer
-focus:
-  - Web Applications
-  - Backend Engineering
-  - Android Development
-  - AI Automation
-  - System Design
-
-mission:
-  Build impactful software products
-
-learning:
-  - DevOps
-  - Cloud
-  - Cybersecurity
-  - Advanced Backend Systems
-```
-
-### Current Focus
-
-* ⚡ Building real-world applications
-* 📱 Android development with Kotlin
-* 🌐 Full Stack Web Development
-* 🤖 AI & Automation Workflows
-* 🔐 Linux & Cybersecurity
-* 🚀 System Design & Scalability
 
 </td>
 
